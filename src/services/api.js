@@ -12,7 +12,7 @@ export const fetchUserData = async (username) => {
     if (error.response) {
       // O servidor respondeu com um status code fora do intervalo 2xx
       console.error('Erro de resposta do servidor:', error.response.data);
-      throw new Error('Perfil não encontrado'); // Ou outra mensagem de erro apropriada
+      throw new Error('Nenhum perfil foi encontrado com esse nome de usuário. Tente novamente');
     } else if (error.request) {
       // A requisição foi feita, mas nenhuma resposta foi recebida
       console.error('Erro de requisição:', error.request);
