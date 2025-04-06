@@ -87,7 +87,7 @@ http://localhost:5173
 
 ## 📸 Demonstração
 
-*(Você pode adicionar prints aqui ou gifs da aplicação rodando para valorizar o visual)*
+**
 
 
 ## 👨‍💻 Autor
