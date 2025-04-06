@@ -62,7 +62,7 @@ GITHUB_PROFILE_SEARCH/
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/GITHUB_PROFILE_SEARCH.git
+git clone https://github.com/wilk2308/github_profile_search.git
 ```
 
 2. Acesse o diretório do projeto:
@@ -89,12 +89,7 @@ http://localhost:5173
 
 *(Você pode adicionar prints aqui ou gifs da aplicação rodando para valorizar o visual)*
 
-## 📌 Melhorias futuras
-
-- Dark mode 🌙
-- Histórico de buscas
-- Sugestões automáticas/autocomplete
 
 ## 👨‍💻 Autor
 
-Desenvolvido por [Seu Nome](https://github.com/seu-usuario) 🚀
+Desenvolvido por [Will Sousa](https://github.com/wilk2308/) 🚀
